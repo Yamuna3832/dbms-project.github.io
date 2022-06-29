@@ -50,6 +50,7 @@ ul li {
     position: absolute;
     background-color: #fb802278;
     padding: 3px;
+    font-weight: 700;
 }
 
 .container-marq {
@@ -165,3 +166,44 @@ a:hover {
     margin: 3px;
 }
 
+
+.er-title {
+    color: #E1E2E2;
+    /* background-color: #1D2228; */
+    text-decoration: underline;
+    width: 100%;
+    text-align: center;
+}
+
+.ddl-title {
+    color: #E1E2E2;
+    text-decoration: underline;
+    width: 100%;
+    text-align: center;
+}
+
+.ddl-img {
+    width: 100%;
+}
+
+.dml-title {
+    color: #E1E2E2;
+    text-decoration: underline;
+    width: 100%;
+    text-align: center;
+}
+
+.dml-img {
+    width: 100%;
+}
+
+.TITLE {
+    color: #E1E2E2;
+    text-decoration: underline;
+    width: 100%;
+    text-align: center;
+}
+
+.wid-100 {
+    width: 100%;
+}
